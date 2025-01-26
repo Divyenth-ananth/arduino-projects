@@ -111,7 +111,7 @@ void loop() {
   bigMotor.write(0);
   bigMotor.detach();
 
-
+  // trial comment
   // If sensor value is below a threshold, an obstacle is detected
   // Adjust threshold value as needed
 
